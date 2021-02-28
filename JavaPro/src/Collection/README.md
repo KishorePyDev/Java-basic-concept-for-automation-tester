@@ -4,7 +4,7 @@ The Collection in Java is a framework that provides an architecture to store and
 
 
 
-<img src="https://static.javatpoint.com/images/java-collection-hierarchy.png" alt="Hierarchy of Java Collection framework" style="zoom:55%;" />
+<img src="https://miro.medium.com/max/5492/1*xppdneMo3fdisX-T8sEvbQ.png" alt="Data Structures in Java — Collections Framework | by Betül İrem Sedef |  Medium" style="zoom: 25%;" />
 
 | LIST               | SET                  |
 | ------------------ | :------------------- |
