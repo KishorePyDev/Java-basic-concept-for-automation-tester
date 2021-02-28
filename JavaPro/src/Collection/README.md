@@ -9,7 +9,7 @@ The Collection in Java is a framework that provides an architecture to store and
 | LIST               | SET                  |
 | ------------------ | :------------------- |
 | Duplicate Value    | Unique Value         |
-| Ordered Collection | Inordered Collection |
+| Ordered Collection | Unordered Collection |
 
 
 
@@ -32,4 +32,12 @@ arrlist.remove("human");//output : ["hello"]
 //remove by index
 arrlist.remove(2);//output : ["hello"]
 ```
+
+
+
+## Tree Set
+
+return element in sorting order(Ascending)
+
+
 

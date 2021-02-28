@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.Set;
+import java.util.TreeSet;
 
 
 
@@ -54,11 +56,24 @@ public class javaCollection
 		
 	}
 	
+	// TreeSet in Set
+	public void treeSet()
+	{
+		
+		TreeSet<Integer> set = new TreeSet<Integer>();
+		set.add(10);
+		set.add(2);
+		set.add(11);
+		System.out.println(set);
+
+	}
+	
 	
 	public static void main(String[] args) 
 	{
 
 		javaCollection jc = new javaCollection();
-		jc.arrayList();
+		//jc.arrayList();
+		jc.treeSet();
 	}
 }
