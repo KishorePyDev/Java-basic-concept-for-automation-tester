@@ -9,6 +9,10 @@ The main purpose of using constructor is to initialize an object.
 
 **Purpose :**  initialize an object.
 
+**Uses :** set initial values for object attributes
+
+
+
 
 
 ![img](https://qphs.fs.quoracdn.net/main-qimg-3e3b48361e4db4e5af8bae84aec50f25)
